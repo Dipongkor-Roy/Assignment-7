@@ -1,0 +1,12 @@
+.main-container{
+    margin-top: 35px;
+    margin-left: 35px;
+
+
+}
+.main-container img{
+    width: 272px;
+    height: 286px;
+    margin: 7px;
+    border-radius: 8px;
+}

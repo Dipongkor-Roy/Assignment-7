@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "641b3239d624197480fd11a5",
+    "balance": "1785.02",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "brown",
+    "course_name": "Fisher Guerrero",
+    "gender": "male",
+    "company": "ACUSAGE",
+    "email": "fisherguerrero@acusage.com"
+  },
+  {
+    "_id": "641b32390cac63f1f23b55ec",
+    "balance": "2424.04",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "blue",
+    "course_name": "Keller Mendez",
+    "gender": "male",
+    "company": "EXOTERIC",
+    "email": "kellermendez@exoteric.com"
+  },
+  {
+    "_id": "641b3239f4586dced7f0eb0f",
+    "balance": "3286.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "brown",
+    "course_name": "Porter Dalton",
+    "gender": "male",
+    "company": "MANTRO",
+    "email": "porterdalton@mantro.com"
+  },
+  {
+    "_id": "641b3239021d108fba699cf5",
+    "balance": "3427.39",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "course_name": "Hale Farrell",
+    "gender": "male",
+    "company": "HOPELI",
+    "email": "halefarrell@hopeli.com"
+  },
+  {
+    "_id": "641b32395d3c96c985b6ea0e",
+    "balance": "1525.38",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "course_name": "Claudette Hammond",
+    "gender": "female",
+    "company": "VIRXO",
+    "email": "claudettehammond@virxo.com"
+  },
+  {
+    "_id": "641b3239d6209eb5fabc52f7",
+    "balance": "1524.27",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "course_name": "Parker Zimmerman",
+    "gender": "male",
+    "company": "NETILITY",
+    "email": "parkerzimmerman@netility.com"
+  }
+]

@@ -1,0 +1,39 @@
+
+.user-contaienr{
+   display: flex;
+   align-items: center;
+
+   background-color: aqua;
+   width: 250px;
+   border-radius: 10px;
+}
+.img{
+    margin: 10px 0 0 10px;
+ }
+
+h4{
+    margin-left: 20px;
+}
+h5{
+    margin-left: 10px;
+}
+.btn-min{
+   background-color: beige;
+   width: 250px;
+   border-radius: 3px;
+}
+.btn-all{
+    display: grid;
+   grid-template-columns: repeat(3,1fr);
+   gap:10px;
+}
+.grand-total{
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+.btn-act{
+    width:250px;
+    height: auto;
+}
